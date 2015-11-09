@@ -1,7 +1,8 @@
 # Socrata Pusher
 Push database tables to Socrata via DataSync
 
-This utility loops through a list of tables and pushes their contents to their corresponding Socrata dataset IDs.
+This utility loops through a [list of tables](https://github.com/timwis/socrata-pusher/blob/master/datasets.yaml)
+and pushes their contents to their corresponding Socrata dataset IDs.
 
 ## Requirements
 - Java Runtime JDK
