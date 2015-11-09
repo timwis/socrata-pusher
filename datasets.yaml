@@ -1,2 +1,2 @@
-- {filepath: 'data/FY2016-adopted.csv', table: fy16, socrata_id: 93zm-fbss}
-- {filepath: 'data/FY2015-adopted.csv', table: fy15, socrata_id: mm99-98s8}
+- {table: fy16, socrata_id: 93zm-fbss}
+- {table: fy15, socrata_id: mm99-98s8}
