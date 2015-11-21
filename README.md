@@ -1,6 +1,8 @@
 # Socrata Pusher
 Push database tables to Socrata via DataSync
 
+# DEPRECATED in favor of [sde-socrata](https://github.com/timwis/sde-socrata)
+
 This utility loops through a [list of tables](https://github.com/timwis/socrata-pusher/blob/master/datasets.yaml)
 and pushes their contents to their corresponding Socrata dataset IDs.
 
